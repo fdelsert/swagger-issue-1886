@@ -20,7 +20,7 @@ public class Endpoint {
 	@Path("/bar/")
 	@Produces(MediaType.APPLICATION_JSON)
 	@ApiOperation(value = "Foo", notes = "Bar")
-	public BigDecimal getQuestionMoyenneScore() {
+	public BigDecimal getFooBar() {
 		return BigDecimal.ZERO;
 	}
 }
