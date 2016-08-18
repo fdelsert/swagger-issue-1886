@@ -1,6 +1,4 @@
-# swagger-issue1886
-
-Swagger Issue #1886
+# swagger-issue-1886
 
 Upgrading **swagger-jersey-jaxrs** to **1.5.7** break swagger.json :
 
